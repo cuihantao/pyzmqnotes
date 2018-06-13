@@ -15,7 +15,7 @@ PUSH server that sends command to workers to continue working or exit.
     :lines: 1-20
     :emphasize-lines: 9,13-18
     
-Publisher that publishes for topics "8","9","10" in random order.
+Publisher that publishes for topics "8", and "9" in random order.
 
 .. literalinclude:: code/zmqpolling.py
     :lines: 21-36
